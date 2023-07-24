@@ -1,0 +1,13 @@
+img {
+  width: 30%;
+  margin: 0;
+  border-radius: 5%;
+  border-style: groove;
+  border-width: 2px;
+  border-color: black;
+}
+.grid {
+  column-fill: var(.C1);
+  column-fill: var(.C2);
+  columns: 3;
+}
