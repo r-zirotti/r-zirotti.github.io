@@ -7,7 +7,5 @@ img {
   border-color: black;
 }
 .grid {
-  column-fill: var(.C1);
-  column-fill: var(.C2);
-  columns: 3;
+  display: grid;
 }
